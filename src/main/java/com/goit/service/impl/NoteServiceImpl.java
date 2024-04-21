@@ -4,7 +4,6 @@ import com.goit.data.entity.NoteEntity;
 import com.goit.data.repository.NoteRepository;
 import com.goit.service.NoteService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
